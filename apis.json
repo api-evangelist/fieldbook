@@ -1,0 +1,70 @@
+{
+    "name": "Fieldbook",
+    "description": "Frustrated with tracking your work in spreadsheets? Fieldbook can help.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19066-fieldbook.jpg",
+    "tags": [
+        "api provider",
+        "deployment",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fieldbook\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fieldbook",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19066-fieldbook.jpg",
+            "humanURL": "https:\/\/fieldbook.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fieldbook-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fieldbook-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/docs.fieldbook.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/docs.fieldbook.com\/blog.rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fieldbook"
+        },
+        {
+            "type": "Email",
+            "url": "info@fieldbook.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fieldbook"
+        },
+        {
+            "type": "Status",
+            "url": "http:\/\/status.fieldbook.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fieldbookapp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fieldbook.com"
+        }
+    ]
+}
